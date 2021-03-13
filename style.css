@@ -1,0 +1,22 @@
+.responsive {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text {
+    color: white;
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #000000;
+}
