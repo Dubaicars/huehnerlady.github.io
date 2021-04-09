@@ -1,0 +1,10 @@
+#[[main]]
+#    identifier = "blog"
+#    name = "Blog"
+#    url = "https://hypoport.github.io/pku-blog"
+#    weight = 51
+#[[main]]
+#    identifier = "mindset"
+#    name = "Mindset"
+#    url = "https://github.com/hypoport/pku-technology-mindset"
+#    weight = 51

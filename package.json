@@ -1,0 +1,10 @@
+{
+  "name": "huehnerlady.github.io",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "postcss": "^8.2.4",
+    "postcss-cli": "^7.1.2"
+  }
+}
